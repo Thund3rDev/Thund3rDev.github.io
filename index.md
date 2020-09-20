@@ -2,6 +2,18 @@
 layout: default
 ---
 
+# Sobre mí
+¡Bienvenido/a a mi página en github!
+Soy Samuel Ríos, aunque algunos me conocen como Thund3r.
+
+# Mis proyectos y juegos
+En esta sección puedes ver algunos de mis juegos, los cuales también puedes encontrar y probar en [mi perfil de itch.io](https://thund3rdev.itch.io/).
+
+## Rivers
+Rivers es blabla
+
+
+<!-->
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -121,3 +133,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+<!-->
