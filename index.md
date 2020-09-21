@@ -72,10 +72,17 @@ La Game Jam era de tan solo 48 horas, así que nos dividimos el trabajo lo mejor
 [Puedes probarlo aquí.](https://thund3rdev.itch.io/the-bat-mafia)
 
 ### Battle Of Villages
+Este es mi proyecto personal, no está acabado aún, de hecho está en una fase bastante temprana de su desarrollo, pero quiero ir haciéndolo poco a poco.
 
-<!--<p align="center">
-  <img src="./img/21singularity_cover.png" />
-</p>-->
+Battle of Villages es un juego de cartas multijugador online 1v1 para móviles donde existen tres aldeas enfrentadas (Karma, Trueno y Energía Vital) que luchan por hacerse con el territorio sagrado situado entre estas.
+
+En Battle of Villages los combates se realizan automáticamente de izquierda a derecha, de manera que los jugadores solo deben jugar la carta que deseen llamar a la batalla, de manera simultánea. Este es uno de los principios en los que se basa el juego, ya que la idea es que sea simple y accesible para todos, de manera que pueda gustarle a jugadores novatos y a jugadores experimentados en el género de cartas.
+
+#### Preview del prototipo
+![battle_of_villages_gif](./img/battleOfVillages.gif)
+
+
+
 
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
