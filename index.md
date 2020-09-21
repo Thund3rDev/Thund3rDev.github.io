@@ -14,6 +14,10 @@ En esta sección puedes ver algunos de mis juegos, los cuales también puedes en
 ### 21 Singularity
 21 Singularity es un juego multijugador local asimétrico para 3 jugadores con vista lateral, en el que 2 de los jugadores toman el rol de androides que deberán cooperar para salir de la fábrica, mientras que el tercer jugador será el malvado científico que tratará de impedirlo.
 
+<p align="center">
+  <img src="./img/21singularity_cover.png" />
+</p>
+
 ![Cover](./img/21singularity_cover.png)
 
 Fue un proyecto universitario de 4 personas para la asignatura "Juegos en Red", en la que teníamos que hacer una versión local (publicada) y otra versión que funcionase en red local.
