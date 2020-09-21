@@ -2,15 +2,16 @@
 layout: default
 ---
 
-# Sobre mí
+# Portfolio
+## Sobre mí
 ¡Bienvenido/a a mi página en github!
 
 Mi nombre es Samuel Ríos, aunque la mayoría me conoce como "Thund3r", y soy programador de videojuegos.
 
-# Mis proyectos y juegos
+## Mis proyectos y juegos
 En esta sección puedes ver algunos de mis juegos, los cuales también puedes encontrar y probar en [mi perfil de itch.io](https://thund3rdev.itch.io/).
 
-## Rivers
+### Rivers
 Rivers es blabla
 
 
