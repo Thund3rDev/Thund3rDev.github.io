@@ -29,10 +29,24 @@ Las partes de las que me encargué fueron:
 ![21_Image2](./img/21singularity_img2.png)
 ![21_Image3](./img/21singularity_img3.png)
 
-
 [Puedes probarlo aquí.](https://nanateam.itch.io/21-singularity)
 
 ### Dance Kingdom
+Dance Kingdom es un juego de estratégica musical donde tendrás que seguir el ritmo para obtener oro que te permita formar y mandar tropas a la pista de batalla.
+
+![Cover](./img/danceKingdom_cover.jpg)
+
+Este también fue un proyecto universitario, en este caso de 3 personas para la asignatura "Interacción Persona Máquina y Usabilidad", donde se nos pedía hacer un juego teniendo en cuenta principios de accesibilidad para que fuera jugable por la mayoría de personas posible, y además principios de usabilidad para facilitar y acomodar la experiencia del usuario.
+
+En este proyecto, trabajé con 2 artistas, por lo que toda la programación está hecha por mí.
+
+Como dato interesante, el proyecto se trabajó y realizó con una manta de baile como controlador (el juego leía los inputs de la manta de baile para su funcionamiento), pero para que pudiese ser jugado por más personas, decidimos publicarlo como juego para teclado. _¡Aunque siempre puedes hacer un remapeado local!_
+
+#### Imágenes del juego
+![dance_kingdom_Image1](./img/21singularity_img1.png)
+![dance_kingdom_Image2](./img/21singularity_img2.png)
+
+[Puedes probarlo aquí.](https://thund3rdev.itch.io/dance-kingdom)
 
 ### The Bat Mafia
 
