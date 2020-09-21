@@ -14,6 +14,10 @@ En esta sección puedes ver algunos de mis juegos, los cuales también puedes en
 ### Rivers
 Rivers es blabla
 
+#### Large image
+
+![Cover](./img/21singularity_cover.png)
+
 
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
