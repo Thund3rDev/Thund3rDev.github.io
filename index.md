@@ -63,9 +63,11 @@ La Game Jam era de tan solo 48 horas, así que nos dividimos el trabajo lo mejor
 - Testing.
 
 #### Imágenes del juego
-![the_bat_mafia_image1](./img/theBatMafia_img1.png)
-![the_bat_mafia_image2](./img/theBatMafia_img2.png)
-![the_bat_mafia_image3](./img/theBatMafia_img3.png)
+<p align="center">
+  <img alt="the_bat_mafia_image1" src="./img/theBatMafia_img1.png" />
+  <img alt="the_bat_mafia_image2" src="./img/theBatMafia_img2.png" />
+  <img alt="the_bat_mafia_image3" src="./img/theBatMafia_img3.png" />
+</p>
 
 [Puedes probarlo aquí.](https://thund3rdev.itch.io/the-bat-mafia)
 
