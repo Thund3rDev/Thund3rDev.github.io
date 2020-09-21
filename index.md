@@ -49,6 +49,26 @@ Como dato interesante, el proyecto se trabajó y realizó con una manta de baile
 [Puedes probarlo aquí.](https://thund3rdev.itch.io/dance-kingdom)
 
 ### The Bat Mafia
+Como participación para la #KenneyJam2020, con tema "Cursed", un compañero y yo decidimos hacer "The Bat Mafia". Un videojuego arcade con vista cenital en el que llevas un bate de béisbol que intentará acabar con las personas a tu alrededor. Debes avanzar acabando con la mafia del bate, ¡pero evita a los ciudadanos!
+
+![Cover](./img/theBatMafia_cover.png)
+
+La Game Jam era de tan solo 48 horas, así que nos dividimos el trabajo lo mejor posible, y mis partes fueron las siguientes:
+- Diseño e implementación del mapa mediante tiles.
+- Controlador del personaje jugable.
+- Diseño de nivel (posición de enemigos, aliados y obstáculos).
+- Implementación del sonido.
+- Iluminación.
+- Post-procesado.
+- Testing.
+
+#### Imágenes del juego
+![the_bat_mafia_image1](./img/theBatMafia_img1.jpg)
+![the_bat_mafia_image2](./img/theBatMafia_img2.jpg)
+![the_bat_mafia_image3](./img/theBatMafia_img3.jpg)
+![the_bat_mafia_image4](./img/theBatMafia_img4.jpg)
+
+[Puedes probarlo aquí.](https://thund3rdev.itch.io/the-bat-mafia)
 
 ### Battle Of Villages
 
