@@ -8,16 +8,31 @@ layout: default
 
 Mi nombre es Samuel Ríos, aunque la mayoría me conoce como "Thund3r", y soy programador de videojuegos.
 
-## Mis proyectos y juegos
+## Algunos de mis proyectos
 En esta sección puedes ver algunos de mis juegos, los cuales también puedes encontrar y probar en [mi perfil de itch.io](https://thund3rdev.itch.io/).
 
-### Rivers
-Rivers es blabla
-
-#### Large image
+### 21 Singularity
+21 Singularity es un juego multijugador local asimétrico para 3 jugadores con vista lateral, en el que 2 de los jugadores toman el rol de androides que deberán cooperar para salir de la fábrica, mientras que el tercer jugador será el malvado científico que tratará de impedirlo.
 
 ![Cover](./img/21singularity_cover.png)
 
+Fue un proyecto universitario de 4 personas para la asignatura "Juegos en Red", en la que teníamos que hacer una versión local (publicada) y otra versión que funcionase en red local.
+
+Las partes de las que me encargué fueron:
+- Implementación de los escenarios.
+- Creación e implementación de obstáculos.
+- Peticiones a un servidor mediante API REST para las salas (no en el producto publicado).
+- Testing y corrección de bugs.
+
+#### Imágenes del juego
+![Video](./video/21 Singularity.mp4)
+
+
+[Puedes probarlo aquí.](https://nanateam.itch.io/21-singularity)
+
+### Dance Kingdom
+
+### The Bat Mafia
 
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
