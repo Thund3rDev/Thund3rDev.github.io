@@ -90,8 +90,8 @@ En Battle of Villages los combates se realizan automáticamente de izquierda a d
 
 ## Contacto
 Si quieres contactar conmigo, puedes hacerlo por:
-- Correo electrónico: [samuelriosdev@gmail.com](mailto:samuelriosdev@gmail.com)
-- Linkedin: [Mi perfil de Linkedin](https://www.linkedin.com/in/samuel-r%C3%ADos-ba51661a3/)
+- Correo electrónico: [samuelriosdev@gmail.com](mailto:samuelriosdev@gmail.com).
+- LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/samuel-r%C3%ADos-ba51661a3/).
 
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
