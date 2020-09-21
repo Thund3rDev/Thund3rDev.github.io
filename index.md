@@ -43,8 +43,8 @@ En este proyecto, trabajé con 2 artistas, por lo que toda la programación est�
 Como dato interesante, el proyecto se trabajó y realizó con una manta de baile como controlador (el juego leía los inputs de la manta de baile para su funcionamiento), pero para que pudiese ser jugado por más personas, decidimos publicarlo como juego para teclado. _¡Aunque siempre puedes hacer un remapeado local!_
 
 #### Imágenes del juego
-![dance_kingdom_Image1](./img/danceKingdom_img1.png)
-![dance_kingdom_Image2](./img/danceKingdom_img2.png)
+![dance_kingdom_Image1](./img/danceKingdom_img1.jpg)
+![dance_kingdom_Image2](./img/danceKingdom_img2.jpg)
 
 [Puedes probarlo aquí.](https://thund3rdev.itch.io/dance-kingdom)
 
