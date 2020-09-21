@@ -25,7 +25,9 @@ Las partes de las que me encargué fueron:
 - Testing y corrección de bugs.
 
 #### Imágenes del juego
-![Imagen1](./img/21singularity_img1.png) ![Imagen2](./img/21singularity_img2.png) ![Imagen3](./img/21singularity_img3.png)
+![21_Image1](./img/21singularity_img1.png)
+![21_Image2](./img/21singularity_img2.png)
+![21_Image3](./img/21singularity_img3.png)
 
 
 [Puedes probarlo aquí.](https://nanateam.itch.io/21-singularity)
