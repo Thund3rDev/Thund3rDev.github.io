@@ -14,10 +14,6 @@ En esta sección puedes ver algunos de mis juegos, los cuales también puedes en
 ### 21 Singularity
 21 Singularity es un juego multijugador local asimétrico para 3 jugadores con vista lateral, en el que 2 de los jugadores toman el rol de androides que deberán cooperar para salir de la fábrica, mientras que el tercer jugador será el malvado científico que tratará de impedirlo.
 
-<p align="center">
-  <img src="./img/21singularity_cover.png" />
-</p>
-
 ![Cover](./img/21singularity_cover.png)
 
 Fue un proyecto universitario de 4 personas para la asignatura "Juegos en Red", en la que teníamos que hacer una versión local (publicada) y otra versión que funcionase en red local.
@@ -29,7 +25,9 @@ Las partes de las que me encargué fueron:
 - Testing y corrección de bugs.
 
 #### Imágenes del juego
-![Video](./video/21 Singularity.mp4)
+![Imagen1](./img/2singularity_img1.png)
+![Imagen2](./img/2singularity_img2.png)
+![Imagen3](./img/2singularity_img3.png)
 
 
 [Puedes probarlo aquí.](https://nanateam.itch.io/21-singularity)
@@ -37,6 +35,10 @@ Las partes de las que me encargué fueron:
 ### Dance Kingdom
 
 ### The Bat Mafia
+
+<!--<p align="center">
+  <img src="./img/21singularity_cover.png" />
+</p>-->
 
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
