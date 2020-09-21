@@ -31,6 +31,8 @@ Las partes de las que me encargué fueron:
 
 [Puedes probarlo aquí.](https://nanateam.itch.io/21-singularity)
 
+* * *
+
 ### Dance Kingdom
 Dance Kingdom es un juego de estratégica musical donde tendrás que seguir el ritmo para obtener oro que te permita formar y mandar tropas a la pista de batalla.
 
@@ -47,6 +49,8 @@ Como dato interesante, el proyecto se trabajó y realizó con una manta de baile
 ![dance_kingdom_Image2](./img/danceKingdom_img2.jpg)
 
 [Puedes probarlo aquí.](https://thund3rdev.itch.io/dance-kingdom)
+
+* * *
 
 ### The Bat Mafia
 Como participación para la #KenneyJam2020, con tema "Cursed", un compañero y yo decidimos hacer "The Bat Mafia". Un videojuego arcade con vista cenital en el que llevas un bate de béisbol que intentará acabar con las personas a tu alrededor. Debes avanzar acabando con la mafia del bate, ¡pero evita a los ciudadanos!
@@ -71,6 +75,8 @@ La Game Jam era de tan solo 48 horas, así que nos dividimos el trabajo lo mejor
 
 [Puedes probarlo aquí.](https://thund3rdev.itch.io/the-bat-mafia)
 
+* * *
+
 ### Battle Of Villages
 Este es mi proyecto personal, no está acabado aún, de hecho está en una fase bastante temprana de su desarrollo, pero quiero ir haciéndolo poco a poco.
 
@@ -82,7 +88,10 @@ En Battle of Villages los combates se realizan automáticamente de izquierda a d
 ![battle_of_villages_gif](./img/battleOfVillages.gif)
 
 
-
+## Contacto
+Si quieres contactar conmigo, puedes hacerlo por:
+- Correo electrónico: [samuelriosdev@gmail.com](mailto:samuelriosdev@gmail.com)
+- Linkedin: [Mi perfil de Linkedin](https://www.linkedin.com/in/samuel-r%C3%ADos-ba51661a3/)
 
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
