@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Thund3rDev
 title-heading: false
 ---
 
