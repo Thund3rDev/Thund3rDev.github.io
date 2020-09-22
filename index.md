@@ -4,15 +4,12 @@ layout: default
 
 # Portfolio
 ## Sobre mí
+![Me](./img/myImage.jpg)
 
-<p>
-  <img alt="Me" src="./img/myImage.jpg" style="float:left; margin-right:20px"/>
-  ¡Bienvenido/a a mi página en github!
+¡Bienvenido/a a mi página en github!
   
-  Mi nombre es Samuel Ríos, aunque la mayoría me conoce como "Thund3r", y soy programador de videojuegos.
-</p>
+Mi nombre es Samuel Ríos, aunque la mayoría me conoce como "Thund3r", y soy programador de videojuegos.
 
-<p style="float:left"></p>
 
 ## Habilidades
 Mi mejor competencia es, sin duda, la programación en el lenguaje **C#** mediante el motor de videojuegos **Unity**.
