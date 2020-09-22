@@ -7,7 +7,7 @@ layout: default
 
 <div>
 <p align="left">
-  <img alt="Me" src="./img/myImage.jpg" width="150" height="200"/>
+  <img alt="Me" src="./img/myImage.jpg" />
 </p>
 
 <p align="right">
