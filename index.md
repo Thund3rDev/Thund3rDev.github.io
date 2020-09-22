@@ -11,11 +11,11 @@ Mi nombre es Samuel Ríos, aunque la mayoría me conoce como "Thund3r", y soy pr
 ## Habilidades
 Mi mejor competencia es, sin duda, la programación en el lenguaje **C#** mediante el motor de videojuegos **Unity**.
 
-Además, manejo otros lenguajes de programación como Java, C, C++ y Javascript.
+Además, manejo otros lenguajes de programación como **Java**, **C**, **C++** y **Javascript**.
 
-Otros motores de videojuegos que he utilizado son: **Unreal Engine** mediante blueprints, **Phaser3** y **Game Maker Studio**.
+Otros motores de videojuegos que he utilizado son: **Unreal Engine** mediante _blueprints_, **Phaser3** y **Game Maker Studio**.
 
-También trabajo con herramientas de oficina como hojas de cálculo o procesadores de texto, y tengo algunos conocimientos sobre seguridad informática (6º lugar en Cyberolympics de INCIBE 2016).
+También trabajo con bases de datos relacionales, como **ORACLE SQL** y **SQLITE**, y bases de datos no relacionales como **MongoDB*. Para acabar, manejo herramientas de oficina como hojas de cálculo o procesadores de texto, y tengo algunos conocimientos sobre seguridad informática (6º lugar en Cyberolympics de _INCIBE_ 2016).
 
 ## Algunos de mis proyectos
 En esta sección puedes ver algunos de mis juegos, los cuales también puedes encontrar y probar en [mi perfil de itch.io](https://thund3rdev.itch.io/).
@@ -96,18 +96,17 @@ En Battle of Villages los combates se realizan automáticamente de izquierda a d
 #### Preview del prototipo
 ![battle_of_villages_gif](./img/battleOfVillages.gif)
 
+## Mis Estudios
+##### _Bachillerato en Ciencias Tecnológicas_, **IES Rafael Alberti**, Cádiz, Andalucía. _2017_.
+###### Nota media de 8.7 en el Bachillerato y nota de 11.99 en la PEvAU.
+
+##### _Grado en Diseño y Desarrollo de Videojuegos_, **Universidad Rey Juan Carlos**, Madrid, Madrid. _En curso_.
+###### Nota media de 7.75.
+Matrículas de honor en _Estadística_ y _Gestión de Datos en Medios Digitales_.
+
 ## Idiomas
 - **Inglés** - Nivel intermedio-alto, 830 TOEIC score.
 - **Francés** - Nivel básico.
-
-## Mis Estudios
-##### _Bachillerato en Ciencias Tecnológicas_ **IES Rafael Alberti** Cádiz, Andalucía. _2017_.
-Nota media de 8.7 en el Bachillerato y nota de 11.99 en la PEvAU.
-
-##### _Grado en Diseño y Desarrollo de Videojuegos_ **Universidad Rey Juan Carlos** Madrid, Madrid. _En curso_.
-Nota media de 7.75.
-
-Matrícula de honor en _Estadística_ y _Gestión de Datos en Medios Digitales_.
 
 ## Contacto
 Si quieres contactar conmigo, puedes hacerlo por:
