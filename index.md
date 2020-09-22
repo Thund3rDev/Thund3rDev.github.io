@@ -17,7 +17,7 @@ Otros motores de videojuegos que he utilizado son: **Unreal Engine** mediante _b
 
 También trabajo con _bases de datos relacionales_, como **ORACLE SQL** y **SQLITE**, y _bases de datos no relacionales_ como **MongoDB**.
 
-Para acabar, manejo herramientas de oficina como hojas de cálculo o procesadores de texto, y tengo algunos conocimientos sobre seguridad informática (6º lugar en Cyberolympics de _INCIBE_ 2016).
+Para acabar, manejo herramientas de oficina como _hojas de cálculo_ o _procesadores de texto_, y tengo algunos conocimientos sobre _seguridad informática_ (6º lugar en Cyberolympics de _INCIBE_ 2016).
 
 ## Algunos de mis proyectos
 En esta sección puedes ver algunos de mis juegos, los cuales también puedes encontrar y probar en [mi perfil de itch.io](https://thund3rdev.itch.io/).
