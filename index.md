@@ -4,9 +4,18 @@ layout: default
 
 # Portfolio
 ## Sobre mí
-¡Bienvenido/a a mi página en github!
+
+<div>
+<p align="left">
+  <img alt="Me" src="./img/myImage.jpg" />
+</p>
+
+<p align="right">
+  ¡Bienvenido/a a mi página en github!
 
 Mi nombre es Samuel Ríos, aunque la mayoría me conoce como "Thund3r", y soy programador de videojuegos.
+</p>
+</div>
 
 ## Habilidades
 Mi mejor competencia es, sin duda, la programación en el lenguaje **C#** mediante el motor de videojuegos **Unity**.
@@ -17,7 +26,7 @@ Otros motores de videojuegos que he utilizado son: **Unreal Engine** mediante _b
 
 También trabajo con _bases de datos relacionales_, como **ORACLE SQL** y **SQLITE**, y _bases de datos no relacionales_ como **MongoDB**.
 
-Para acabar, manejo herramientas de oficina como _hojas de cálculo_ o _procesadores de texto_, y tengo algunos conocimientos sobre _seguridad informática_ (6º lugar en Cyberolympics de _INCIBE_ 2016).
+Para acabar, manejo herramientas de control de versiones de **Git** como _GitHub Desktop_ o _GitKraken_, de oficina como _hojas de cálculo_ o _procesadores de texto_, y tengo algunos conocimientos sobre _seguridad informática_ (6º lugar en Cyberolympics de _INCIBE_ 2016).
 
 ## Algunos de mis proyectos
 En esta sección puedes ver algunos de mis juegos, los cuales también puedes encontrar y probar en [mi perfil de itch.io](https://thund3rdev.itch.io/).
@@ -100,11 +109,8 @@ En Battle of Villages los combates se realizan automáticamente de izquierda a d
 
 ## Mis Estudios
 ##### _Bachillerato en Ciencias Tecnológicas_, **IES Rafael Alberti**, Cádiz, Andalucía. _2017_.
-Nota media de 8.7 en el Bachillerato y nota de 11.99 en la PEvAU.
 
 ##### _Grado en Diseño y Desarrollo de Videojuegos_, **Universidad Rey Juan Carlos**, Madrid, Madrid. _En curso_.
-Nota media de 7.75.
-Matrículas de honor en _Estadística_ y _Gestión de Datos en Medios Digitales_.
 
 ## Idiomas
 - **Inglés** - Nivel intermedio-alto, 830 TOEIC score.
