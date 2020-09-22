@@ -12,8 +12,7 @@ layout: default
   Mi nombre es Samuel Ríos, aunque la mayoría me conoce como "Thund3r", y soy programador de videojuegos.
 </p>
 
-<p></p>
-<span>Text, text and more text</span>
+<p style="float:left"></p>
 
 ## Habilidades
 Mi mejor competencia es, sin duda, la programación en el lenguaje **C#** mediante el motor de videojuegos **Unity**.
