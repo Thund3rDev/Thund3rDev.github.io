@@ -6,14 +6,11 @@ layout: default
 ## Sobre mí
 
 <div>
-<p align="left">
-  <img alt="Me" src="./img/myImage.jpg" />
-</p>
-
-<p align="right">
+<p>
+  <img alt="Me" src="./img/myImage.jpg" style="float:left"/>
   ¡Bienvenido/a a mi página en github!
-
-Mi nombre es Samuel Ríos, aunque la mayoría me conoce como "Thund3r", y soy programador de videojuegos.
+  
+  Mi nombre es Samuel Ríos, aunque la mayoría me conoce como "Thund3r", y soy programador de videojuegos.
 </p>
 </div>
 
