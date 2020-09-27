@@ -48,7 +48,7 @@ Las partes de las que me encargué fueron:
 ![21_Image3](./img/21singularity_img3.png)
 
 #### Vídeo de demostración
-[![21 Singularity Tráiler](http://img.youtube.com/vi/Du8YlVF52M8/0.jpg)](https://youtu.be/Du8YlVF52M8 "21 Singularity - Tráiler")
+[![21 Singularity Tráiler](http://img.youtube.com/vi/Du8YlVF52M8/0.jpg)](https://youtu.be/Du8YlVF52M8 "21 Singularity - Tráiler"){:target="_blank"}
 
 [Proyecto en GitHub.](https://github.com/Thund3rDev/Juegos-en-Red-19-20---Grupo-G-)
 
@@ -74,7 +74,7 @@ Como dato interesante, el proyecto se trabajó y realizó con una manta de baile
 ![dance_kingdom_Image2](./img/danceKingdom_img2.jpg)
 
 #### Vídeo de demostración
-[![Dance Kingdom Tráiler](http://img.youtube.com/vi/JOFYp2fQDho/0.jpg)](https://youtu.be/JOFYp2fQDho "Dance Kingdom - Tráiler")
+[![Dance Kingdom Tráiler](http://img.youtube.com/vi/JOFYp2fQDho/0.jpg)](https://youtu.be/JOFYp2fQDho "Dance Kingdom - Tráiler"){:target="_blank"}
 
 [Proyecto en GitHub.](https://github.com/Thund3rDev/Dance-Kingdom)
 
@@ -106,7 +106,7 @@ La Game Jam era de tan solo 48 horas, así que nos dividimos el trabajo lo mejor
 </p>
 
 #### Vídeo de demostración
-[![The Bat Mafia Tráiler](http://img.youtube.com/vi/LlnbN5jCb1w/0.jpg)](https://youtu.be/LlnbN5jCb1w "The Bat Mafia - Tráiler")
+[![The Bat Mafia Tráiler](http://img.youtube.com/vi/LlnbN5jCb1w/0.jpg)](https://youtu.be/LlnbN5jCb1w "The Bat Mafia - Tráiler"){:target="_blank"}
 
 [Proyecto en GitHub.](https://github.com/Thund3rDev/The-Bat-Mafia)
 
