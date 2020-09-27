@@ -43,6 +43,9 @@ Las partes de las que me encargué fueron:
 ![21_Image2](./img/21singularity_img2.png)
 ![21_Image3](./img/21singularity_img3.png)
 
+#### Vídeo de demostración
+[![21 Singularity Tráiler](http://img.youtube.com/vi/Du8YlVF52M8/0.jpg)](https://youtu.be/Du8YlVF52M8 "21 Singularity - Tráiler")
+
 [Puedes probarlo aquí.](https://nanateam.itch.io/21-singularity)
 
 * * *
