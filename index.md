@@ -50,7 +50,7 @@ Las partes de las que me encargué fueron:
 #### Vídeo de demostración
 [![21 Singularity Tráiler](http://img.youtube.com/vi/Du8YlVF52M8/0.jpg)](https://youtu.be/Du8YlVF52M8 "21 Singularity - Tráiler")
 
-[Proyecto en GitHub.](https://github.com/G76Dev/Juegos-en-Red-19-20---Grupo-G-)
+[Proyecto en GitHub.](https://github.com/Thund3rDev/Juegos-en-Red-19-20---Grupo-G-)
 
 [Puedes probarlo aquí.](https://nanateam.itch.io/21-singularity)
 
