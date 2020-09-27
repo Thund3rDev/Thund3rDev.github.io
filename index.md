@@ -25,12 +25,16 @@ Para acabar, manejo herramientas de control de versiones de **Git** como _GitHub
 ## Algunos de mis proyectos
 En esta sección puedes ver algunos de mis juegos, los cuales también puedes encontrar y probar en [mi perfil de itch.io](https://thund3rdev.itch.io/).
 
+Además te dejo [mi perfil de GitHub](https://github.com/Thund3rDev) por si quieres echar un vistazo a los proyectos que hay subidos.
+
 ### 21 Singularity
 21 Singularity es un juego multijugador local asimétrico para 3 jugadores con vista lateral, en el que 2 de los jugadores toman el rol de androides que deberán cooperar para salir de la fábrica, mientras que el tercer jugador será el malvado científico que tratará de impedirlo.
 
 ![Cover](./img/21singularity_cover.png)
 
 Fue un proyecto universitario de 4 personas para la asignatura "Juegos en Red", en la que teníamos que hacer una versión local (publicada) y otra versión que funcionase en red local.
+
+La tecnología utilizada en el proyecto es **Phaser3** con **Javascript** para el cliente y **Java** en **Maven** para servidor.
 
 Las partes de las que me encargué fueron:
 - Implementación de los escenarios.
@@ -57,6 +61,8 @@ Dance Kingdom es un juego de estratégica musical donde tendrás que seguir el r
 
 Este también fue un proyecto universitario, en este caso de 3 personas para la asignatura "Interacción Persona Máquina y Usabilidad", donde se nos pedía hacer un juego teniendo en cuenta principios de accesibilidad para que fuera jugable por la mayoría de personas posible, y además principios de usabilidad para facilitar y acomodar la experiencia del usuario.
 
+La tecnología utilizada para el proyecto es **Unity**.
+
 En este proyecto, trabajé con 2 artistas, por lo que toda la programación está hecha por mí.
 
 Como dato interesante, el proyecto se trabajó y realizó con una manta de baile como controlador (el juego leía los inputs de la manta de baile para su funcionamiento), pero para que pudiese ser jugado por más personas, decidimos publicarlo como juego para teclado. _¡Aunque siempre puedes hacer un remapeado local!_
@@ -65,6 +71,10 @@ Como dato interesante, el proyecto se trabajó y realizó con una manta de baile
 ![dance_kingdom_Image1](./img/danceKingdom_img1.jpg)
 ![dance_kingdom_Image2](./img/danceKingdom_img2.jpg)
 
+#### Vídeo de demostración
+[![Dance Kingdom Tráiler](http://img.youtube.com/vi/JOFYp2fQDho/0.jpg)](https://youtu.be/JOFYp2fQDho "Dance Kingdom - Tráiler")
+
+[Proyecto en GitHub.](https://github.com/Thund3rDev/Dance-Kingdom)
 [Puedes probarlo aquí.](https://thund3rdev.itch.io/dance-kingdom)
 
 * * *
@@ -73,6 +83,8 @@ Como dato interesante, el proyecto se trabajó y realizó con una manta de baile
 Como participación para la #KenneyJam2020, con tema "Cursed", un compañero y yo decidimos hacer "The Bat Mafia". Un videojuego arcade con vista cenital en el que llevas un bate de béisbol que intentará acabar con las personas a tu alrededor. Debes avanzar acabando con la mafia del bate, ¡pero evita a los ciudadanos!
 
 ![Cover](./img/theBatMafia_cover.png)
+
+La tecnología utilizada para el proyecto es **Unity**.
 
 La Game Jam era de tan solo 48 horas, así que nos dividimos el trabajo lo mejor posible, y mis partes fueron las siguientes:
 - Diseño e implementación del mapa mediante tiles.
@@ -90,6 +102,10 @@ La Game Jam era de tan solo 48 horas, así que nos dividimos el trabajo lo mejor
   <img alt="the_bat_mafia_image3" src="./img/theBatMafia_img3.png" />
 </p>
 
+#### Vídeo de demostración
+[![The Bat Mafia Tráiler](http://img.youtube.com/vi/LlnbN5jCb1w/0.jpg)](https://youtu.be/LlnbN5jCb1w "The Bat Mafia - Tráiler")
+
+[Proyecto en GitHub.](https://github.com/Thund3rDev/The-Bat-Mafia)
 [Puedes probarlo aquí.](https://thund3rdev.itch.io/the-bat-mafia)
 
 * * *
