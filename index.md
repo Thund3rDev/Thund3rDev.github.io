@@ -34,7 +34,7 @@ Además te dejo [mi perfil de GitHub](https://github.com/Thund3rDev) por si quie
 
 Fue un proyecto universitario de 4 personas para la asignatura "Juegos en Red", en la que teníamos que hacer una versión local (publicada) y otra versión que funcionase en red local.
 
-La tecnología utilizada en el proyecto es **Phaser3** con **Javascript** para el cliente y **Java** en **Maven** para servidor.
+La tecnología utilizada en el proyecto es **Phaser3** con **Javascript** para HTML5 en el cliente y **Java** en **Maven** para servidor.
 
 Las partes de las que me encargué fueron:
 - Implementación de los escenarios.
@@ -49,6 +49,8 @@ Las partes de las que me encargué fueron:
 
 #### Vídeo de demostración
 [![21 Singularity Tráiler](http://img.youtube.com/vi/Du8YlVF52M8/0.jpg)](https://youtu.be/Du8YlVF52M8 "21 Singularity - Tráiler")
+
+[Proyecto en GitHub.](https://github.com/G76Dev/Juegos-en-Red-19-20---Grupo-G-)
 
 [Puedes probarlo aquí.](https://nanateam.itch.io/21-singularity)
 
@@ -75,6 +77,7 @@ Como dato interesante, el proyecto se trabajó y realizó con una manta de baile
 [![Dance Kingdom Tráiler](http://img.youtube.com/vi/JOFYp2fQDho/0.jpg)](https://youtu.be/JOFYp2fQDho "Dance Kingdom - Tráiler")
 
 [Proyecto en GitHub.](https://github.com/Thund3rDev/Dance-Kingdom)
+
 [Puedes probarlo aquí.](https://thund3rdev.itch.io/dance-kingdom)
 
 * * *
@@ -106,6 +109,7 @@ La Game Jam era de tan solo 48 horas, así que nos dividimos el trabajo lo mejor
 [![The Bat Mafia Tráiler](http://img.youtube.com/vi/LlnbN5jCb1w/0.jpg)](https://youtu.be/LlnbN5jCb1w "The Bat Mafia - Tráiler")
 
 [Proyecto en GitHub.](https://github.com/Thund3rDev/The-Bat-Mafia)
+
 [Puedes probarlo aquí.](https://thund3rdev.itch.io/the-bat-mafia)
 
 * * *
