@@ -48,7 +48,7 @@ Las partes de las que me encargué fueron:
 ![21_Image3](./img/21singularity_img3.png)
 
 #### Vídeo de demostración
-<iframe width="600" height="360"
+<iframe width="640" height="360"
 src="https://www.youtube.com/embed/Du8YlVF52M8">
 </iframe>
 
@@ -76,7 +76,7 @@ Como dato interesante, el proyecto se trabajó y realizó con una manta de baile
 ![dance_kingdom_Image2](./img/danceKingdom_img2.jpg)
 
 #### Vídeo de demostración
-<iframe width="600" height="360"
+<iframe width="640" height="360"
 src="https://www.youtube.com/embed/JOFYp2fQDho">
 </iframe>
 
@@ -110,7 +110,7 @@ La Game Jam era de tan solo 48 horas, así que nos dividimos el trabajo lo mejor
 </p>
 
 #### Vídeo de demostración
-<iframe width="600" height="360"
+<iframe width="640" height="360"
 src="https://www.youtube.com/embed/LlnbN5jCb1w">
 </iframe>
 
