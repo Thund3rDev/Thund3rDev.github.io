@@ -106,7 +106,11 @@ La Game Jam era de tan solo 48 horas, así que nos dividimos el trabajo lo mejor
 </p>
 
 #### Vídeo de demostración
-[![The Bat Mafia Tráiler](http://img.youtube.com/vi/LlnbN5jCb1w/0.jpg)](https://youtu.be/LlnbN5jCb1w "The Bat Mafia - Tráiler"){:target="_blank"}
+<!--[![The Bat Mafia Tráiler](http://img.youtube.com/vi/LlnbN5jCb1w/0.jpg)](https://youtu.be/LlnbN5jCb1w "The Bat Mafia - Tráiler"){:target="_blank"}-->
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/LlnbN5jCb1w">
+</iframe>
 
 [Proyecto en GitHub.](https://github.com/Thund3rDev/The-Bat-Mafia)
 
