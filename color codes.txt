@@ -1,0 +1,5 @@
+Background verde: #084200
+Verde claro con opacidad: #37D322c4
+Verde claro: #37D322
+Verde intermedio 1: #30bb1e
+Verde intermedio 2: #289c18
