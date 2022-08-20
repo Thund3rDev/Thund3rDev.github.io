@@ -3,13 +3,13 @@
 <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
-    <meta name="description" content="21 Singularity" />
+    <meta name="description" content="Battle Of Villages" />
     <meta name="author" content="Samuel Ríos" />
 
-    <title>Samuel Ríos - 21 Singularity</title>
+    <title>Samuel Ríos - Battle Of Villages</title>
 
     <!-- Core theme CSS (includes Bootstrap)-->
-    <link href="../assets/css/styles.css" rel="stylesheet" />
+    <link href="../../assets/css/styles.css" rel="stylesheet" />
 
     <!-- Font Awesome icons (free version)-->
     <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
@@ -32,6 +32,15 @@
             </ul>
         </div>
     </div>
+    <!-- Languages -->
+    <div class="d-flex text-center float-right col-lg-2">
+      <a class="mx-3" href="../../en/games/battle_of_villages.html">
+          <img class="img-fluid" src="../../assets/img/flags/eng.png" alt="English Language" />
+      </a>
+      <a class="mx-3" href="./battle_of_villages.html">
+          <img class="img-fluid" src="../../assets/img/flags/esp.png" alt="Spanish Language" />
+      </a>
+    </div>
   </nav>
   <!-- Page Content -->
   <div class="container">
@@ -42,69 +51,28 @@
       <div class="col-lg-8">
 
         <!-- Title -->
-        <h1 class="mt-4">21 Singularity</h1>
+        <h1 class="mt-4">Battle Of Villages</h1>
 
         <hr>
 
         <!-- Preview Image -->
-        <img class="img-fluid rounded" src="../assets/img/games/21singularity/21singularity_cover.png" alt="21 Singularity Main Image" style="width:900px; height: 300px;">
+        <img class="img-fluid rounded" src="../../assets/img/projects/battleOfVillages.png" alt="Battle Of Villages Main Image" style="width:900px; height: 300px;">
 
         <hr>
 
         <!-- Post Content -->
         <div class="text-justify">
-            <p class="lead">21 Singularity es un juego multijugador local asimétrico para 3 jugadores con vista lateral, en el que 2 de los jugadores toman el rol de androides que deberán cooperar para salir de la fábrica, mientras que el tercer jugador será el malvado científico que tratará de impedirlo.</p>
+            <p class="lead">Battle of Villages es un juego de cartas multijugador online 1v1 para móviles donde existen tres aldeas enfrentadas (Karma, Trueno y Energía Vital) que luchan por hacerse con el territorio sagrado situado entre estas.</p>
 
-            <p>Fue un proyecto universitario de 4 personas para la asignatura "Juegos en Red", en la que teníamos que hacer una versión local (publicada) y otra versión que funcionase en red local.</p>
-            <p>La tecnología utilizada en el proyecto es <strong>Phaser3</strong> con <strong>Javascript</strong> para HTML5 en el cliente y <strong>Java</strong> mediante <strong>Spring-Maven</strong> para servidor.</p>
-            <p>Las partes de las que me encargué fueron:</p>
-            <ul>
-                <li>Implementación de los escenarios.</li>
-                <li>Creación e implementación de obstáculos.</li>
-                <li>Peticiones a un servidor mediante API REST para las salas (no en el producto publicado).</li>
-                <li>Testing y corrección de bugs.</li>
-            </ul>
+            <p>Este es mi proyecto personal, no está acabado aún, de hecho está en una fase bastante temprana de su desarrollo, pero quiero ir haciéndolo poco a poco.</p>
+            <p>En Battle of Villages los combates se realizan automáticamente de izquierda a derecha, de manera que los jugadores solo deben jugar la carta que deseen llamar a la batalla, de manera simultánea. Este es uno de los principios en los que se basa el juego, ya que la idea es que sea simple y accesible para todos, de manera que pueda gustarle a jugadores novatos y a jugadores experimentados en el género de cartas.</p>
         </div>
 
         <hr>
-        <h3>Imágenes del juego</h3>
+        <h3>Prototipo</h3>
         <hr></hr>
 
-        <!--Carousel-->
-        <div id="carouselExampleIndicators" class="carousel slide my-4" data-ride="carousel">
-            <ol class="carousel-indicators">
-            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-            </ol>
-            <div class="carousel-inner" role="listbox">
-                <div class="carousel-item active">
-                    <img class="d-block img-fluid" src="../assets/img/games/21singularity/21singularity_img1.png" alt="First slide" style="width: 900px;">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block img-fluid" src="../assets/img/games/21singularity/21singularity_img2.png" alt="Second slide" style="width: 900px;">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block img-fluid" src="../assets/img/games/21singularity/21singularity_img3.png" alt="Third slide" style="width: 900px;">
-                </div>
-            </div>
-            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-            </a>
-        </div>
-
-        <hr>
-        <h3>Vídeo de demostración</h3>
-        <hr></hr>
-
-        <iframe width="900" height="506" class="embed-responsive"
-            src="https://www.youtube.com/embed/Du8YlVF52M8">
-        </iframe>
+        <img class="img-fluid rounded" src="../../assets/img/games/battleOfVillages/battleOfVillages.gif" alt="Battle Of Villages Gif">
 
         <hr>
       </div>
@@ -147,21 +115,22 @@
           </div>
         </div>
 
+        
         <!-- Itch-Io Widget -->
-        <div class="card my-4">
+        <!--<div class="card my-4">
             <h5 class="card-header">Pruébalo</h5>
             <div class="card-body">
-                <iframe frameborder="0" src="https://itch.io/embed/550600?link_color=084200" width="288" height="172"><a href="https://nanateam.itch.io/21-singularity">21 Singularity by NaNa Team, Thund3rDev, Nanref</a></iframe>
+                <iframe frameborder="0" src="https://itch.io/embed/737831?link_color=084200" width="288" height="172"><a href="https://thund3rdev.itch.io/the-bat-mafia">The Bat Mafia by Thund3rDev, Nanref</a></iframe>
             </div>
-        </div>
+        </div>-->
 
         <!-- GitHub Widget -->
-        <div class="card my-4">
+        <!--<div class="card my-4">
             <h5 class="card-header">Código del proyecto</h5>
             <div class="card-body">
-                <p>Puedes ver el código del proyecto en el <a href="https://github.com/Thund3rDev/Juegos-en-Red-19-20---Grupo-G-"  target="_blank">repositorio de GitHub</a>.</p>
+                <p>Puedes ver el código del proyecto en el <a href="https://github.com/Thund3rDev/The-Bat-Mafia"  target="_blank">repositorio de GitHub</a>.</p>
             </div>
-        </div>
+        </div>-->
 
       </div>
 
@@ -174,7 +143,7 @@
   <!-- Footer -->
   <footer>
     <div class="copyright py-2 text-center text-white bg-secondary">
-        <div class="container"><small>Plantila base: Start Bootstrap LLC, Copyright © 2013-2020</small></div>
+        <div class="container"><small>Plantilla base: Start Bootstrap LLC, Copyright © 2013-2020</small></div>
     </div>
   </footer>
 
@@ -184,7 +153,7 @@
   <!-- Third party plugin JS-->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
   <!-- Core theme JS-->
-  <script src="../assets/js/scripts.js"></script>
+  <script src="../../assets/js/scripts.js"></script>
 
 </body>
 
